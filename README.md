@@ -10,7 +10,7 @@
    1) TrendR: An R Shiny app to enable community organiztions to visualize trends and movements in census data </p>
   <p> 2) Reviewing the Amazon Review Scale: A sentiment Analysis </p>
  <p>  3) Carbon emissions, minimum-wage, and income inequality: An exploratory analysis </p>
-  
+   
   <h10> 📫 How to reach me: [Twitter](https://twitter.com/ShreyKo97) ; [LinkedIn](https://www.linkedin.com/in/shreyans-kothari/)
 <!--
 **shreyansko/shreyansko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
