@@ -1,3 +1,4 @@
+<H1> Shreyans (Shrey) Kothari </H1>
 <H1> Hi there! Welcome to my GitHub! 👋 </H1>
 <body>
   <p> My pronouns are he/him/his 🧍‍♂| Don't know why my pronouns are listed here? Reach out and I'd be happy to explain! </p>
