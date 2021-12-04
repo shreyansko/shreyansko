@@ -7,10 +7,9 @@
 <p> My hobbies include creative writing ✍️, sketching ✏️, reading (fiction and non-fiction) 📚, and long-distance running. 🏃 </p>
   <H3> Current Projects:</H3>
  <p> 
-   1) TrendR: An R Shiny app to enable community organiztions to visualize trends and movements in census data
-   2) Reviewing the Amazon Review Scale: A sentiment Analysis
-   3) Carbon emissions, minimum-wage, and inequality: An exploratory analysis
-  </p>
+   1) TrendR: An R Shiny app to enable community organiztions to visualize trends and movements in census data </p>
+  <p> 2) Reviewing the Amazon Review Scale: A sentiment Analysis </p>
+ <p>  3) Carbon emissions, minimum-wage, and inequality: An exploratory analysis </p>
 <!--
 **shreyansko/shreyansko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
