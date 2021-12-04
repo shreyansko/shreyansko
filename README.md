@@ -7,7 +7,7 @@
 <p> My hobbies include creative writing ✍️, sketching ✏️, reading (fiction and non-fiction) 📚, and long-distance running. 🏃 </p>
   <H3> Current Projects:</H3>
  <p> 1) TrendR: An R Shiny app to enable community organiztions to visualize trends and movements in census data </p>
- <p> 2) Reviewing the Amazon Review Scale: A sentiment Analysis </p>
+ <p> 2) Reviewing the Amazon Review Scale: A sentiment Analysis with python </p>
  <p>  3) Carbon emissions, minimum-wage, and income inequality: An exploratory analysis </p>
    
   <h10> 📫 How to reach me: [Twitter](https://twitter.com/ShreyKo97) ; [LinkedIn](https://www.linkedin.com/in/shreyans-kothari/)
