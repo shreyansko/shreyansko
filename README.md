@@ -12,7 +12,8 @@
    
   <h10> 📫 How to reach me: [Twitter](https://twitter.com/ShreyKo97) ; [LinkedIn](https://www.linkedin.com/in/shreyans-kothari/)
     
- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<shreyansko>&theme=<THEME_NAME>" />
+[![Shreyans's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyansko)](https://github.com/shreyansko/github-readme-stats)
+
 
 <!--
 **shreyansko/shreyansko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
