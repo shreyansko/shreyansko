@@ -1,4 +1,9 @@
-### Hi there 👋
+<H1> Hi there! Welcome to my GitHub! 👋 </H1>
+<body>
+<H3>A little about me: </H3>
+<p>I am a dual degree graduate student at Columbia University in the city of New York. I am studying Applied Statistics (with a focus in Data Science) and Public Administration. I am interested in all things tech and data science. 
+</p>
+<p> My hobbies include creative writing ✍️, sketching ✏️, reading (fiction and non-fiction) 📚, and long-distance running. 🏃 </p>
 
 <!--
 **shreyansko/shreyansko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
