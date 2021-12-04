@@ -1,5 +1,4 @@
-<H1> Hi there! Welcome to my GitHub! 👋 </H1>
-<H1> _________ </H1>
+<H1> **Hi there! Welcome to my GitHub! 👋**</H1>
 <body>
   <p> My pronouns are he/him/his 🧍‍♂| Don't know why my pronouns are listed here? Reach out and I'd be happy to explain! </p>
 <H3>A little about me: </H3>
