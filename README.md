@@ -1,7 +1,8 @@
 <H1> Hi there! Welcome to my GitHub! 👋 </H1>
 <body>
+  <H2> My pronouns are he/him/his</H2>
 <H3>A little about me: </H3>
-<p>I am a dual degree graduate student at Columbia University in the city of New York. I am studying Applied Statistics (with a focus in Data Science) and Public Administration. I am interested in all things tech and data science. 
+<p>I am a dual degree graduate student at Columbia University in the city of New York. I am studying Applied Statistics (with a focus in Data Science) and Public Administration. I am interested in all things tech and data science. I create models and run 
 </p>
 <p> My hobbies include creative writing ✍️, sketching ✏️, reading (fiction and non-fiction) 📚, and long-distance running. 🏃 </p>
 
