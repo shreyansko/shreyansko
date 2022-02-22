@@ -5,10 +5,11 @@
 <p>My name is Shreyans (Shrey) Kothari. I am a graduate student at Columbia University in the city of New York. I am studying Applied Statistics, with a focus in Data Science. I am interested in all things tech and data science. 🌱 I’m currently learning neural networks and deep learning with python. 
 </p>
 <p> My hobbies include creative writing ✍️, sketching ✏️, reading (fiction and non-fiction) 📚, long-distance running 🏃, and data visualization. </p>
-  <H3> Current Projects:</H3>
+  <H3> Past Projects:</H3>
  <p> 1) TrendR: An R Shiny app to enable community organiztions to visualize trends and movements in census data </p>
  <p> 2) Reviewing the Amazon Review Scale: A sentiment Analysis with python </p>
  <p>  3) Carbon emissions, minimum-wage, and income inequality: An exploratory analysis </p>
+  <H3> Looking for my next project- reach out if you want to collaborate! </H3>
   
   <h10> 📫 How to reach me: [Twitter](https://twitter.com/ShreyKo97) ; [LinkedIn](https://www.linkedin.com/in/shreyans-kothari/)
 
